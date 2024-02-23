@@ -10,9 +10,17 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <img src="https://img.shields.io/badge/php-%5E8.2-blue.svg?style=flat-square&logoColor=white&link=https://www.php.net/" alt="PHP"/> 
-  <img src="https://shields.io/badge/JavaScript-blue?logo=JavaScript&logoColor=white&style=flat-square" alt="JavaScript"/> 
-  <img src="https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue" alt="Mysql"/> 
+ #### Back-End com PHP e Laravel:
+![PHP](https://img.shields.io/badge/PHP-%5E8.2-blue.svg?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%5EF8.X-FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=flat-square&logo=Composer&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-lightgrey?logo=mysql&style=flat-square&logoColor=white)
+
+#### Front-End com Laravel:
+![Blade](https://img.shields.io/badge/Blade-%5EF8.X-2088FF.svg?style=flat-square&logo=laravel&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-blue?logo=JavaScript&style=flat-square&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) 
 </p>  
 
 <p align="left">
