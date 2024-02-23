@@ -8,10 +8,13 @@
    <!-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=elitymaciel&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github"> -->
 
  <p align="left">
-  🦄 Linguagens: <img src="https://img.shields.io/badge/php-%5E8.2-blue.svg?style=flat-square&logoColor=white&link=https://www.php.net/" alt="PHP"/> 
-  <img src="https://shields.io/badge/JavaScript-blue?logo=JavaScript&logoColor=white&style=flat-square" alt="JavaScript"/> 
+  🦄 Linguagens: <img src="https://img.shields.io/badge/php-%5E8.2-blue.svg?style=flat-square&logoColor=blue&link=https://www.php.net/" alt="PHP"/> 
+  <img src="https://shields.io/badge/JavaScript-blue?logo=JavaScript&logoColor=blue&style=flat-square" alt="JavaScript"/> 
   <img src="https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue" alt="Mysql"/> 
-  <img src="https://img.shields.io/badge/Laravel-%5EF8.X-FF2D20.svg?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/> 
+  <img src="https://img.shields.io/badge/Laravel-%5EF8.X-FF2D20.svg?style=flat-square&logo=laravel&logoColor=blue" alt="Laravel"/>
+      <img src="https://img.shields.io/badge/Composer-885630?style=flat-square&logo=Composer&logoColor=blue" alt="Composer"/> 
+      <img src="https://img.shields.io/badge/Blade-%5EF8.X-2088FF.svg?style=flat-square&logo=laravel&logoColor=blue" alt="Laravel"/> 
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=blue" alt="Laravel"/> 
  </p>
 
 <p align="left">
