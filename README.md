@@ -10,8 +10,8 @@
  <p align="left">
   🦄 Linguagens: <img src="https://img.shields.io/badge/php-%5E8.2-blue.svg?style=flat-square&logoColor=white&link=https://www.php.net/" alt="PHP"/> 
   <img src="https://shields.io/badge/JavaScript-blue?logo=JavaScript&logoColor=white&style=flat-square" alt="JavaScript"/> 
-  <img src="https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue" alt="Mysql"/>
-  <img src="[https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue](https://img.shields.io/badge/Laravel-%5EF8.X-FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)" alt="Laravel"/> 
+  <img src="https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue" alt="Mysql"/> 
+  <img src="https://img.shields.io/badge/Laravel-%5EF8.X-FF2D20.svg?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/> 
  </p>
 
 <p align="left">
