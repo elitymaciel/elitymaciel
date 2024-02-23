@@ -31,7 +31,17 @@
   <a href="#" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=[API-DO-SEU-WHATSAPP](https://api.whatsapp.com/send?phone=+5594984110714&text=Ol%C3%A1,%20peguei%20seu%20Numero%20no%20github.)" alt="WhatsApp"/></a>
 </p>
-<p>
-     Doação Bitcoin: 
-     bc1q0en68lm5cu2wfyw9qw86cp9fa0ga95xvej93q9
-</p>
+
+## Informações de Contato
+- **Celular:** (94) 9 8411-0714
+- **E-mail:** elitymaciel@hotmail.com
+- **LinkedIn:** [linkedin.com/in/maciel-da-cruz-oliveira-040202153](https://www.linkedin.com/in/maciel-da-cruz-oliveira-040202153)
+- **Site Pessoal:** [solartechsolutions.com.br](https://solartechsolutions.com.br)
+
+
+## Experiência Técnica
+- **Reinarda Mineração LTDA:** – Cargo: Analista de T.I. 
+
+
+## Doação Bitcoin: 
+     bc1q0en68lm5cu2wfyw9qw86cp9fa0ga95xvej93q9 
