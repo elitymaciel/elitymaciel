@@ -7,9 +7,7 @@
 
    <!-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=elitymaciel&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github"> -->
 
-</p>
-
-<p align="left">
+</p> 
  #### Back-End com PHP e Laravel:
 ![PHP](https://img.shields.io/badge/PHP-%5E8.2-blue.svg?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%5EF8.X-FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
@@ -20,8 +18,7 @@
 ![Blade](https://img.shields.io/badge/Blade-%5EF8.X-2088FF.svg?style=flat-square&logo=laravel&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-blue?logo=JavaScript&style=flat-square&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) 
-</p>  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)  
 
 <p align="left">
   💼 Horas trabalhadas: <a href="https://wakatime.com/@a846156c-0d3d-4698-b445-49b9088e8fc9"><img src="https://wakatime.com/badge/user/a846156c-0d3d-4698-b445-49b9088e8fc9.svg" alt="Total time coded since Feb 20 2023" /></a>
