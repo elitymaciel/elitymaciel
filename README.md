@@ -40,8 +40,10 @@
 
 
 ## Experiência Técnica
-- **Reinarda Mineração LTDA:** – Cargo: Analista de T.I. 
-
+- **PRIME INFORMATICA:** - Cargo: Instrutor de informatica 2011 - 2012
+- **REINARDA MINERACAO LTDA:** – Cargo: Analista de T.I. 2012 - 2016
+- **CHAPLEAU EXPLORACAO MINERAL LTDA:** - Cargo: Gerente de T.I. 2016 - 2018
+- **SOLAR TECH SOLUTIONS:** - 2020 - ATUAL
 
 ## Doação Bitcoin: 
      bc1q0en68lm5cu2wfyw9qw86cp9fa0ga95xvej93q9 
