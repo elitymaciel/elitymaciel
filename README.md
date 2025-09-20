@@ -45,3 +45,6 @@
 
 ## Doação Bitcoin: 
      bc1q0en68lm5cu2wfyw9qw86cp9fa0ga95xvej93q9 
+
+
+     [https://gist.github.com/Issykul/6ac3395ded8d7869bca31a4a2de23adc]
